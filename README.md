@@ -1,2 +1,2 @@
 # twabber
-Twabber is a widget that pipes a user's Twitter homeline into Ubuntu screen notifications
+Twabber is a widget that pipes a user's Twitter timeline into Ubuntu screen notifications
